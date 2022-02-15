@@ -1,1 +1,3 @@
-# svelte-ui-framework
+# svelte-ui-library
+
+svelte の ui コンポーネントライブラリをいろいろ使ってみようレポジトリ
